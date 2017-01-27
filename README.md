@@ -19,6 +19,10 @@
 * Implement Loading Indicator Component
 * Strategy of Tests, CD/CI
 
+> **Note:** 
+This version implements a call to a AWS Lambda Function just to test the use of AWS Cognito.
+The Web App will consume services via AWS Gateway API
+
 ##Contributes and Feedbacks
 ###About the English
 I'm a Brazilian guy who recently moved to Vancouver - Canada, so, my English still has bug :P 
